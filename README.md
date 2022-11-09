@@ -1,6 +1,7 @@
 
 HOW TO USE BARANGAY WEB-SYSTEM
 LOGIN 
+create database name 'web' and import the files
 
 username:admin
 
